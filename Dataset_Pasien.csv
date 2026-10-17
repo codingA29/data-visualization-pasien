@@ -1,0 +1,31 @@
+ID Pasien,Nama Pasien,Umur,Diagnosis,Status Rawat
+PS001,Andi Saputra,25.0,Penyakit Dalam,Rawat Jalan
+PS002,Siti Aisyah,34.0,Jantung,Rawat Inap
+PS003,Budi Santoso,47.0,Bedah/Ortopedi,Rawat Jalan
+PS004,Rina Marlina,19.0,Infeksi,Rawat Jalan
+PS005,Dedi Kurniawan,58.0,Saraf,Rawat Inap
+PS006,Nadia Putri,8.0,Infeksi,Rawat Jalan
+PS007,Agus Setiawan,68.0,Jantung,Rawat Inap
+PS008,Lina Wati,42.0,Penyakit Dalam,Rawat Jalan
+PS009,Rudi Hartono,55.0,Saraf,Rawat Inap
+PS010,Maya Sari,31.0,Bedah/Ortopedi,Rawat Jalan
+PS011,Fajar Hidayat,29.0,Jantng,Rawat Jalan
+PS012,Dewi Lestari,,Penyakit Dalam,Rawat Inap
+PS013,  Rizky Maulana  ,17.0,Infeksi,Rawat Jalan
+PS014,Nurul Hidayah,73.0,Saraf,Rawat Inap
+PS015,Tono Suharto,39.0,bedah/ortopedi,Rawat Jalan
+PS016,Fitri Handayani,45.0,Jantung,rawat inap
+PS017,Asep Rahmat,22.0,Infeksi,Rawat Jalan
+PS018,Yuni Kartika,36.0,Penyakit Dalam,RAWAT JALAN
+PS019,Dian Pratama,-4.0,Saraf,Rawat Inap
+PS020,Ratna Dewi,61.0,Jantung,Rawat Inap
+PS021,Hendra Gunawan,50.0,Bedah/Ortopedi,Rawat Jalan
+PS022,Indah Permata,27.0,Infeksi,Rawat Jalan
+PS023,Wahyu Nugroho,44.0,,Rawat Inap
+PS024,Nina Amelia,33.0,Penyakit Dalam,Rawat Jalan
+PS025,Eko Prasetyo,52.0,Jantung,Rawat Inap
+PS026,Sarah Anjani,16.0,Infeksi, Rawat Jalan 
+PS027,Joko Susilo,64.0,Saraf,Rawat Inap
+PS028,Mila Karmila,40.0,Penyakit dalam,Rawat Jalan
+PS029,Arif Firmansyah,28.0,Bedah/Ortopedi,Rawat Jalan
+PS029,Arif Firmansyah,28.0,Bedah/Ortopedi,Rawat Jalan
